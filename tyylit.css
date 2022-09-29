@@ -1,8 +1,26 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(162, 174, 240);
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
+    text-align: center;
+        margin-top: 10px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;         
 }
+p {    
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  a:link {
+    color: rgb(16, 0, 158);
+  }
+  a:visited {
+    color: green;
+  }
+  a:active {
+    color: rgb(103, 103, 235);
+  }
+    
