@@ -1,19 +1,20 @@
 body {
-    background-color: rgb(154, 201, 255);
+    
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: left;
+       text-align: center;
         margin-top: 10px;
-        margin-bottom: 100px;
-        margin-right: 550px;
-        margin-left: 80px;         
-        background-image: url("kuvat/paakallo.jpg");
+        margin-bottom: 250px;
+        margin-right: 400px;
+        margin-left: 400px;         
+        background-image: url("kuvat/vihreeviiru.png");
         background-repeat: no-repeat;
-        background-position: right;
+        background-position: center top;
         background-attachment: fixed;
-}
+        background-size: cover;
+       }
 
   a:link {
     color: rgb(16, 0, 158);
@@ -24,4 +25,14 @@ body {
   a:active {
     color: rgb(103, 103, 235);
   }
-    
+  h3 {
+    text-decoration-line: underline;
+    text-decoration-color: rgb(0, 0, 0);
+  }
+  h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  h2 {
+    font-style: italic;
+  }
+  
